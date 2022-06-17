@@ -3,8 +3,8 @@ const settings = {
   "state": {
     "frontity": {
       "url": "http://wp.fwp-host.tk",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "title": "Techno Verse",
+      "description": "Techno Verse's Acadimy"
     }
   },
   "packages": [
@@ -18,7 +18,7 @@ const settings = {
               "/"
             ],
             [
-              "الثقلفة البصرية",
+              "الثقافة البصرية",
               "/vl"
             ],
             [
