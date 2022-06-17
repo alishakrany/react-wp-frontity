@@ -14,26 +14,17 @@ const settings = {
         "theme": {
           "menu": [
             [
-              "Home",
+              "الرئيسية",
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "الثقلفة البصرية",
+              "/vl"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "علم النفس",
+              "/psyco"
             ],
-            [
-              "Japan",
-              "/tag/japan/"
-            ],
-            [
-              "About Us",
-              "/about-us/"
-            ]
-          ],
           "featured": {
             "showOnList": false,
             "showOnPost": false
