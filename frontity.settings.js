@@ -25,6 +25,7 @@ const settings = {
               "علم النفس",
               "/psyco"
             ],
+          ],
           "featured": {
             "showOnList": false,
             "showOnPost": false
